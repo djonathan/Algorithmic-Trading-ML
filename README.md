@@ -62,7 +62,7 @@ Between Baseline and Tune 1, the classification report showed an accuracy improv
 
 Tune 2 proved not worthwhile, with the classification report showing accuracy dropped to .54 and the model return was sharply down into negative territory.
 
-Tune 3 accuracy recovered to .56, and model return was positive, but Tune 2 remains the winner.
+Tune 3 accuracy recovered to .56, and model return was positive, but Tune 1 remains the winner.
 
 ---
 
